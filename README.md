@@ -1,2 +1,0 @@
-# McKinley
-Created with CodeSandbox
